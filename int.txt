@@ -1,3 +1,4 @@
 gh auth status 
 gh auth login
-git remote -v 
+git --version
+git config --list 
