@@ -2,5 +2,10 @@ gh auth status and i wnt to know how merge conflict came
 gh auth login
 git --version
 git config --list 
+<<<<<<< HEAD
 git log
 git log --oneline
+=======
+git remote -v 
+git switch -c ui
+>>>>>>> 049c51b72bcdc6cc6778683ed61da10da5f6744d
