@@ -1,4 +1,4 @@
-gh auth status 
+gh auth status and i wnt to know how merge conflict came
 gh auth login
 git --version
 git config --list 
